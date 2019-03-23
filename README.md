@@ -11,11 +11,7 @@ of this bot.
 
 ## Mee6 uses and loves
 
-- [discord.py](https://github.com/Rapptz/discord.py)
-- [discord.ie](https://github.com/qeled/discordie)
-- [aioredis](https://github.com/aio-libs/aioredis)
-- [flask](http://flask.pocoo.org)
-- [Docker](https://www.docker.com/)
+
 
 ## How to contribute !
 
