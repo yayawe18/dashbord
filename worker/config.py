@@ -16,3 +16,5 @@ POSTGRES_PORT = os.getenv('POSTGRES_USER')
 POSTGRES_DB = os.getenv('POSTGRES_DB', 'mee6')
 POSTGRES_USER = os.getenv('POSTGRES_USER', 'mee6')
 POSTGRES_PASSWORD = os.getenv('POSTGRES_PASSWORD', 'mee6')
+
+\].
