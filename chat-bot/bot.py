@@ -35,4 +35,4 @@ else:
 bot = Mee6(shard_id=int(shard), shard_count=int(shard_count), redis_url=redis_url,
            mongo_url=mongo_url, dd_agent_url=dd_agent_url,
            sentry_dsn=sentry_dsn)
-bot.run(token)
+bot.run(NzE4NDE1Nzg1NTI5NDQyMzY1.Xtoi6A.n3XyNH6Ps_eLFkcT8IDUOJMFhG0)
